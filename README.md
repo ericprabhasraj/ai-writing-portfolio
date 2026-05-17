@@ -5,3 +5,5 @@
 **Tags:** Artificial Intelligence · LLM · Anthropic · AI Safety · Claude
 
 ---
+## ✍️ My Writing
+- [Claude Is the Only AI With a Written Constitution](./claude-constitution-blog.md) — Medium, May 2026
